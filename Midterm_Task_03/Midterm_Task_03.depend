@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1598801408 source:d:\cse225_lab_practice\codeblocks\midterm_task_03\main.cpp
+	<iostream>
+	"Queue.h"
+
+1598801468 d:\cse225_lab_practice\codeblocks\midterm_task_03\queue.h
+	"Queue.tpp"
+
+1598801550 d:\cse225_lab_practice\codeblocks\midterm_task_03\queue.tpp
+	"Queue.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1599329562 source:d:\cse225_lab_practice\codeblocks\lab09_task\main.cpp
+	<iostream>
+	<string>
+	"StackType.h"
+
+1599317219 d:\cse225_lab_practice\codeblocks\lab09_task\stacktype.h
+	"StackType.tpp"
+
+1599329449 d:\cse225_lab_practice\codeblocks\lab09_task\stacktype.tpp
+	<iostream>
+	"StackType.h"
+

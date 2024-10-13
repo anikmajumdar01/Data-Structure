@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1595702637 source:c:\users\anik majumdar\documents\lab_practice\codeblocks\lab04_task_01\main.cpp
+	<iostream>
+	"fraction.h"
+
+1595542870 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab04_task_01\fraction.h
+	"fraction.tpp"
+
+1595543103 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab04_task_01\fraction.tpp
+	"fraction.h"
+
+1595702637 source:d:\cse225_lab_practice\codeblocks\lab04_task_01\main.cpp
+	<iostream>
+	"fraction.h"
+
+1595542870 d:\cse225_lab_practice\codeblocks\lab04_task_01\fraction.h
+	"fraction.tpp"
+
+1595543103 d:\cse225_lab_practice\codeblocks\lab04_task_01\fraction.tpp
+	"fraction.h"
+

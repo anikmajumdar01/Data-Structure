@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600422979 source:d:\cse225_lab_practice\codeblocks\assignment02_problem_02\main.cpp
+	<iostream>
+	"StudentInfo.h"
+	"QueueType.h"
+
+1600420745 d:\cse225_lab_practice\codeblocks\assignment02_problem_02\studentinfo.h
+	<string>
+	"StudentInfo.tpp"
+
+1600423327 d:\cse225_lab_practice\codeblocks\assignment02_problem_02\studentinfo.tpp
+	"StudentInfo.h"
+
+1600420745 d:\cse225_lab_practice\codeblocks\assignment02_problem_02\queuetype.h
+	"QueueType.tpp"
+
+1600423327 d:\cse225_lab_practice\codeblocks\assignment02_problem_02\queuetype.tpp
+	"QueueType.h"
+	<iostream>
+

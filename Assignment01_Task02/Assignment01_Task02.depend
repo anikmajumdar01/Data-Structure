@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1598545237 source:d:\cse225_lab_practice\codeblocks\assignment01_task02\main.cpp
+	<iostream>
+	"UnsortedList.h"
+	"StudentInfo.h"
+
+1598542335 d:\cse225_lab_practice\codeblocks\assignment01_task02\unsortedlist.h
+	"UnsortedList.tpp"
+
+1598545899 d:\cse225_lab_practice\codeblocks\assignment01_task02\unsortedlist.tpp
+	"UnsortedList.h"
+
+1598541689 d:\cse225_lab_practice\codeblocks\assignment01_task02\studentinfo.h
+	<string>
+	"StudentInfo.tpp"
+
+1598545807 d:\cse225_lab_practice\codeblocks\assignment01_task02\studentinfo.tpp
+	"StudentInfo.h"
+

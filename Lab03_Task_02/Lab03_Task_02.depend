@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595140523 source:c:\users\anik majumdar\documents\lab_practice\codeblocks\lab03_task_02\main.cpp
+	<iostream>
+	"complex.h"
+
+1595350184 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab03_task_02\complex.h
+	"complex.tpp"
+
+1595350184 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab03_task_02\complex.tpp
+	"complex.h"
+

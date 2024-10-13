@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600183501 source:d:\cse225_lab_practice\codeblocks\lab11_task_01\main.cpp
+	<iostream>
+	"unsortedtype.h"
+
+1600183501 d:\cse225_lab_practice\codeblocks\lab11_task_01\unsortedtype.h
+	"unsortedtype.tpp"
+
+1600191251 d:\cse225_lab_practice\codeblocks\lab11_task_01\unsortedtype.tpp
+	"unsortedtype.h"
+	<iostream>
+

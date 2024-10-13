@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1598545556 source:d:\cse225_lab_practice\codeblocks\assignment01_task01\main.cpp
+	<iostream>
+	"sortedlist.h"
+
+1598536472 d:\cse225_lab_practice\codeblocks\assignment01_task01\sortedlist.h
+	"sortedlist.tpp"
+
+1598536426 d:\cse225_lab_practice\codeblocks\assignment01_task01\sortedlist.tpp
+	"sortedlist.h"
+	<iostream>
+

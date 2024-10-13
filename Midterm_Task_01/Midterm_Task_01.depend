@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1598966759 source:d:\cse225_lab_practice\codeblocks\midterm_task_01\main.cpp
+	<iostream>
+	"Point.h"
+	"sortedType.h"
+
+1598900017 d:\cse225_lab_practice\codeblocks\midterm_task_01\point.h
+	"Point.tpp"
+
+1598966759 d:\cse225_lab_practice\codeblocks\midterm_task_01\point.tpp
+	"Point.h"
+	<iostream>
+	<math.h>
+
+1598900606 d:\cse225_lab_practice\codeblocks\midterm_task_01\sortedtype.h
+	"sortedType.tpp"
+
+1598902389 d:\cse225_lab_practice\codeblocks\midterm_task_01\sortedtype.tpp
+	"sortedType.h"
+	<iostream>
+

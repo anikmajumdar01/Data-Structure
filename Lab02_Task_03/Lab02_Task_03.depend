@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595347850 source:c:\users\anik majumdar\documents\lab_practice\codeblocks\lab02_task_03\main.cpp
+	<iostream>
+	"dynarr.h"
+
+1594925758 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab02_task_03\dynarr.h
+	"dynarr.tpp"
+
+1594925811 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab02_task_03\dynarr.tpp
+	"dynarr.h"
+

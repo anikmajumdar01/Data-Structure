@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1596907218 source:c:\users\anik majumdar\documents\lab_practice\codeblocks\lab_07_task\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1596901451 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab_07_task\stacktype.h
+	<iostream>
+	"stacktype.tpp"
+
+1596900761 c:\users\anik majumdar\documents\lab_practice\codeblocks\lab_07_task\stacktype.tpp
+	"stacktype.h"
+
+1596907218 source:d:\cse225_lab_practice\codeblocks\lab_07_task\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1596901451 d:\cse225_lab_practice\codeblocks\lab_07_task\stacktype.h
+	<iostream>
+	"stacktype.tpp"
+
+1596900761 d:\cse225_lab_practice\codeblocks\lab_07_task\stacktype.tpp
+	"stacktype.h"
+

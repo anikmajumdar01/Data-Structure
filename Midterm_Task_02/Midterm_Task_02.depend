@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1598722241 source:d:\cse225_lab_practice\codeblocks\midterm_task_02\main.cpp
+	<iostream>
+	"stacktype.h"
+
+1598721275 d:\cse225_lab_practice\codeblocks\midterm_task_02\stacktype.h
+	<iostream>
+	"stacktype.tpp"
+
+1598721081 d:\cse225_lab_practice\codeblocks\midterm_task_02\stacktype.tpp
+	"stacktype.h"
+	<iostream>
+

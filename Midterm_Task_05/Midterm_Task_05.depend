@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1599032053 source:d:\cse225_lab_practice\codeblocks\midterm_task_05\main.cpp
+	<iostream>
+	"stacktype.h"
+	"dynarr.h"
+
+1599031204 d:\cse225_lab_practice\codeblocks\midterm_task_05\stacktype.h
+	<iostream>
+	"dynarr.h"
+	"stacktype.tpp"
+
+1599027741 d:\cse225_lab_practice\codeblocks\midterm_task_05\stacktype.tpp
+	"stacktype.h"
+
+1599032282 d:\cse225_lab_practice\codeblocks\midterm_task_05\dynarr.h
+	"dynarr.tpp"
+
+1599032282 d:\cse225_lab_practice\codeblocks\midterm_task_05\dynarr.tpp
+	"dynarr.h"
+	<iostream>
+
